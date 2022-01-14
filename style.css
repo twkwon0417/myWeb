@@ -260,7 +260,7 @@ body a:hover
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
     background-color: #221c5a; 
-    background-image:url(demo-images/background_img_01b.jpg); 
+    background-image:url(page-images/background_img_01b.jpg);
     background-repeat: repeat; 
     background-position: center top;
     background-size: cover;
@@ -368,7 +368,7 @@ h1.big-title
 #portfolio
 {
     background-color: #221C5A; 
-    background-image: url("demo-images/background_img_02.jpg"); 
+    background-image: url("page-images/background_img_02.jpg");
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto;
@@ -606,7 +606,7 @@ footer
 #portfolio-1
 {
     background-color: #221c5a;
-    background-image:url("demo-images/background_img_05b.jpg");
+    background-image:url("page-images/background_img_05b.jpeg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto; 
